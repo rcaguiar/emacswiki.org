@@ -1,3 +1,8 @@
+# Fork of Emacswiki Git Repository
+
+This is for correct only a few files, so I recommend you use 
+the official repository as below.
+
 # Emacswiki Git Repository
 
 Every time somebody edits a page on the Emacswiki or uploads a file
